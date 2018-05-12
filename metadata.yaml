@@ -1,4 +1,8 @@
 _repo: Averil_48228
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48228-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Carey, Rosa Nouchette
@@ -9,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1352
     wikipedia: https://en.wikipedia.org/wiki/Rosa_Nouchette_Carey
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48228#Averil
 gutenberg_issued: '2015-02-10'
 gutenberg_type: Text
 identifiers:
